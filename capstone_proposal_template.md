@@ -1,15 +1,15 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+Dursun KOC  
+March 3rd, 2018
 
 ## Proposal
-_(approx. 2-3 pages)_
 
 ### Domain Background
-_(approx. 1-2 paragraphs)_
+A seedling is a young plant sporophyte developing out of a plant embryo from a seed. Seedling development starts with germination of the seed. A typical young seedling consists of three main parts: the radicle (embryonic root), the hypocotyl (embryonic shoot), and the cotyledons (seed leaves). The two classes of flowering plants (angiosperms) are distinguished by their numbers of seed leaves: monocotyledons (monocots) have one blade-shaped cotyledon, whereas dicotyledons (dicots) possess two round cotyledons. Gymnosperms are more varied. For example, pine seedlings have up to eight cotyledons. The seedlings of some flowering plants have no cotyledons at all. These are said to be acotyledons.<br/>
+The plumule is the part of a seed embryo that develops into the shoot bearing the first true leaves of a plant. In most seeds, for example the sunflower, the plumule is a small conical structure without any leaf structure. Growth of the plumule does not occur until the cotyledons have grown above ground. This is epigeal germination. However, in seeds such as the broad bean, a leaf structure is visible on the plumule in the seed. These seeds develop by the plumule growing up through the soil with the cotyledons remaining below the surface. This is known as hypogeal germination.
+The aim of this project is to build a convolutional neural network that classifies different species of plant seedlings while working reasonably well under constraints of computation with help of transfer learning technique.<br/>
 
-In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
 
 ### Problem Statement
 _(approx. 1 paragraph)_

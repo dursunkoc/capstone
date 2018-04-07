@@ -1,0 +1,4 @@
+/tmp/
+*/*.hdf5
+notebook/.ipynb_checkpoints/
+input/
